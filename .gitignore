@@ -1,6 +1,5 @@
-data
-
-.idea
+.venv
+.vscode
 *__pycache__
 .DS_Store
 .Rproj.user
