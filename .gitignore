@@ -1,0 +1,20 @@
+data
+
+.idea
+*__pycache__
+.DS_Store
+.Rproj.user
+.RData
+git.Rproj
+REGIO2020-05-12.RData
+.Rhistory
+
+# Mst Ignore stuff
+*env/
+*security/
+*german_ai_community_dataset.json
+*german_ai_dataset.json
+*split_2_train.json
+*split_2_train_cc.json
+*split_5_train.json
+*split_5_train_cc.json

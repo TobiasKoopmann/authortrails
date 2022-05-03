@@ -1,0 +1,12 @@
+ujson
+scipy
+sklearn
+mysql-connector-python
+tqdm
+torch==1.2.0
+transformers==2.4.1
+pytrails
+pyspark
+matplotlib
+networkx
+geopy
